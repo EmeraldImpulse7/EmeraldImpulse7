@@ -12,3 +12,5 @@ I would recomend giving the profile a custom directory.
 You can then download the mods from https://www.dropbox.com/sh/zw1ugswsg3rk87q/AACGcSyJKjkxk4ce-Mf78ZUPa?dl=0.
 Then put the mods folder in the custom directory, then you are done!
 If you have any questions, ping `Impulse#7647`, aka me.
+
+IP is `135.148.5.54:25584`.
